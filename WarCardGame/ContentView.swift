@@ -16,7 +16,7 @@ struct ContentView: View {
     
     var body: some View {
         ZStack {
-            Image("background-cloth")
+            Image("background-wood-grain")
                 .resizable()
                 .ignoresSafeArea()
             VStack {
